@@ -1,0 +1,9 @@
+.env
+.env.test
+node_modules
+*.log
+
+database.js
+
+database.sql
+insertcategorias.sql
